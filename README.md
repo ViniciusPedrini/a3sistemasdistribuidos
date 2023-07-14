@@ -1,5 +1,5 @@
 # a3sistemasdistribuidos
-equipe:
+EQUIPE:
 Alisson Alves de Almeida - RA 32225312;
 Danilo Teodoro Brasetti - RA 8222244215;
 Felipe André Alves Santos - RA 8222245748;
